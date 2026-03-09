@@ -41,7 +41,7 @@ API RESTful para gerenciamento de pedidos, desenvolvida como parte do processo s
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/minha-api.git
+git clone https://github.com/Joao-gudi/api-pedidos-jitterbit.git
 
 # Entre na pasta
 cd minha-api
